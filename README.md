@@ -1,9 +1,13 @@
 # react-shaadi-infinitescroll
 
 The app is an authenticated app. It is accepting fake login.
+
 Post login it is redirecting to '/home'.
+
 Home page consists of users List got from a dummy API displayed using infinite scroll
+
 Used Typescript with react redux thunk.
+
 Used bootstrap for completely responsive UI.
 
 
